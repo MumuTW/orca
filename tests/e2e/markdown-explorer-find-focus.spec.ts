@@ -1,3 +1,4 @@
+// Demo commit for #10518: proves the changed-specs gate selects and runs this file. Not for merge.
 import { expect, test } from './helpers/orca-app'
 import { openFileExplorer } from './helpers/file-explorer'
 import { pressShortcut } from './helpers/shortcuts'
